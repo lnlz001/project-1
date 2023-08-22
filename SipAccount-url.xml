@@ -1,0 +1,7 @@
+<config>
+  <username>your_username</username>
+  <domain>your_sip_domain</domain>
+  <password>your_password</password>
+  <transport>tls</transport>
+  <registration_expiration>31536000</registration_expiration>
+</config>
